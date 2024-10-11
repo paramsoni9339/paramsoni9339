@@ -17,6 +17,5 @@ Cloud and Blockchain Technologies: Preparing a presentation on the latest advanc
 Biologically Inspired Engineering: Studying how biology influences modern engineering practices, with applications in sustainable design.
 
 📫 How to Reach Me
-Email: paramsoni.nmims@gmail.com
-LinkedIn: --
-GitHub: this is it bruh!
+Email: paramsoni.me@gmail.com
+LinkedIn:
