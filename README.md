@@ -12,9 +12,7 @@ Cloud Computing & Blockchain: Working on technologies that power the future of d
 UI/UX Design: Creating dynamic, user-friendly web applications from scratch.
 
 📚 Currently Learning
-Genetics and DNA Computing: Delving deeper into how genetic information is transferred and exploring potential applications in computing.
-Cloud and Blockchain Technologies: Preparing a presentation on the latest advancements beyond traditional applications.
-Biologically Inspired Engineering: Studying how biology influences modern engineering practices, with applications in sustainable design.
+
 
 📫 How to Reach Me
 Email: paramsoni.me@gmail.com
