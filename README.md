@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]()
 <h1 align="center">{Hello, World} 👋, I'm Param Soni!</h1>
-<h2 align="center"><img src="https://i.gifer.com/o6m.gif" width="90px">A Software Dev from India<img src="https://i.gifer.com/Pak.gif" width="60px"></h2>
+<h2 align="center"><img src="https://i.gifer.com/LV3z.gif" width="90px">A Software Dev from India<img src="https://i.gifer.com/Pak.gif" width="60px"></h2>
 <div align="left">
     <div align="left">
   <img src="https://i.gifer.com/Vp3L.gif" height="20" width="100%">
